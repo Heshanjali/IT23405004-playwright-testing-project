@@ -30,8 +30,8 @@ Before running the tests, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd PROJ1
+git clone [<repository-url>](https://github.com/Heshanjali/IT23405004-playwright-testing-project.git)
+cd IT23405004
 ```
 
 2. Install dependencies:
@@ -47,7 +47,7 @@ npx playwright install
 ## Project Structure
 
 ```
-PROJ1/
+IT23405004/
 ├── tests/
 │   └── singlishToSinhala.spec.js    # Main test file with translation test cases
 ├── playwright-report/                # HTML test report (generated after test run)
